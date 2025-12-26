@@ -51,8 +51,8 @@ Data base models will include
 .POST
 .DELETE
 
-############################################################################################
-#The 2nd Idea for the Capstone is a Neighborhood Bulletin Board
+
+# The 2nd Idea for the Capstone is a Neighborhood Bulletin Board
 
 # Front-End specification
 
@@ -76,8 +76,8 @@ Data base models will include
 - Comments
 - Likes
 
-############################################################################################
-#The 3rd idea would be a Barber Portefollio & Appointment Tracker
+
+# The 3rd idea would be a Barber Portefollio & Appointment Tracker
 
 # Front-End specification
 
