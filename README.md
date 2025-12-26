@@ -12,11 +12,11 @@ There will be a emphasis on posting, commenting, liking and messaging.
 
 Which will include
 
--Login Features
--Profile Creation
--Post updates with photos
--Like and comment on posts
--Adding / Removing Friends
+-  Features
+- Profile Creation
+- Post updates with photos
+- Like and comment on posts
+- Adding / Removing Friends
 
 
 # Database Model
@@ -27,7 +27,94 @@ Data base models will include
 - Posts
 - Comments
 - Likes
-- -Friendships
+- Friendships
 
 # API Specifications
+
+- Authentication
+  .POST Creating User
+
+- Users
+  . GET
+
+-Posts
+.POST
+.GET
+.PUT
+.DELETE
+
+-Comments
+.POST
+.DELETE
+
+-Likes
+.POST
+.DELETE
+
+############################################################################################
+#The 2nd Idea for the Capstone is a Neighborhood Bulletin Board
+
+# Front-End specification
+
+-User Authentication
+-create neighborhood posts
+-View Feed of Nieghborhood posts
+-like and comment on posts
+-Edit and Delete posts created by user
+
+# Data Base Model
+
+-User
+-Posts
+-Comment
+-Like
+
+# API Specifications
+
+-Authentication
+-Posts
+-Comments
+-Likes
+
+############################################################################################
+#The 3rd idea would be a Barber Portefollio & Appointment Tracker
+
+# Front-End specification
+
+There will be a emphasis on creating an count, create basic appointments, view upcoming appointments, update or cancel appointments
+
+Which will include
+
+- User Authentication
+- View Haircut Posts
+- Create, Update, or delete appointments
+- Barber Profile Creation
+
+ # Database Model
+
+Data base models will include
+
+-ID
+-Username
+-email
+-password
+-appointment
+-client name
+-date
+-time
+
+# API Specifications
+
+-Authentication
+-Barber Profile
+-Haircut Posts
+-Appointments
+
+
+
+
+
+
+
+
 
