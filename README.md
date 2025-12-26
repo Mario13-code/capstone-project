@@ -37,13 +37,13 @@ Data base models will include
 - Users
   . GET
 
--Posts
+- Posts
 .POST
 .GET
 .PUT
 .DELETE
 
--Comments
+- Comments
 .POST
 .DELETE
 
@@ -56,25 +56,25 @@ Data base models will include
 
 # Front-End specification
 
--User Authentication
--create neighborhood posts
--View Feed of Nieghborhood posts
--like and comment on posts
--Edit and Delete posts created by user
+- User Authentication
+- create neighborhood posts
+- View Feed of Nieghborhood posts
+- like and comment on posts
+- Edit and Delete posts created by user
 
 # Data Base Model
 
--User
--Posts
--Comment
--Like
+- User
+- Posts
+- Comment
+- Like
 
 # API Specifications
 
--Authentication
--Posts
--Comments
--Likes
+- Authentication
+- Posts
+- Comments
+- Likes
 
 ############################################################################################
 #The 3rd idea would be a Barber Portefollio & Appointment Tracker
@@ -94,21 +94,21 @@ Which will include
 
 Data base models will include
 
--ID
--Username
--email
--password
--appointment
--client name
--date
--time
+- ID
+- Username
+- email
+- password
+- appointment
+- client name
+- date
+- time
 
 # API Specifications
 
--Authentication
--Barber Profile
--Haircut Posts
--Appointments
+- Authentication
+- Barber Profile
+- Haircut Posts
+- Appointments
 
 
 
